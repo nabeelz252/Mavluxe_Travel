@@ -1,6 +1,6 @@
 # Mavluxe_Travel Project
 
-##Situation
+## Situation
 Mavluxe Travel is a high end travel agency with best in class for helping customers the perfect resort on their preference basis. 
 
 ## Task
